@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ### Project View
 
-![project photo](./project_template.png)
+![project photo](project_template.png)
